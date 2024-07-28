@@ -6,7 +6,7 @@ html {
   display: flex;
   justify-content: center;
 
-  background-color: #0f1e24
+  background-color: #0f1e24;
 }
 
 body {
@@ -17,5 +17,5 @@ body {
   background: url('../public/forest_background.png');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center top
+  background-position: center top;
 }
