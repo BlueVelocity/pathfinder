@@ -8,6 +8,7 @@ export default {
         secondary: '#06292e',
         accent: '#ff9300',
         deepAccent: '#dd9300',
+        background: '#0f1e24',
       },
       keyframes: {
         slidePageUp: {
